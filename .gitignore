@@ -1,0 +1,6 @@
+echo "venv/
+__pycache__/
+*.pyc
+.DS_Store
+organizer_history.json
+file_organizer.log" > .gitignore
